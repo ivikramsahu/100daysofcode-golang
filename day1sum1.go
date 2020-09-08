@@ -1,3 +1,20 @@
+/* Problem Statement 1
+
+sample input 1 :
+10 4 | *
+
+output :
+|****|****|****|****|****|****|****|****|****|****|
+
+Sample input 2 :
+10 4 n -
+
+output :
+0----1----2----3----4----5----6----7----8----9----10
+
+Note : When the user enters the first major mark as n then print the numeric number instead of mark..
+*/
+
 package main
 
 import ("fmt";"os";"strconv")
