@@ -9,3 +9,6 @@
  - [Essential Go](https://essential-go.programming-books.io/)
  - [BootCamp for GO](http://www.golangbootcamp.com/)
  - [web application with GO](https://astaxie.gitbooks.io/)
+ - [Golang bot](https://golangbot.com/learn-golang-series/)
+ - [Go lang with exerecise](https://gophercises.com/)
+ - [Go Book pdf - openmind.net](https://www.openmymind.net/assets/go/go.pdf)
