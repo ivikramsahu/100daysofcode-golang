@@ -2,7 +2,7 @@
 
 100 days challenge to brush up or start with go lang..
 
-### __Challenges Starts from **11-Sept-2020**__
+__Challenges Starts from *11-Sept-2020*__
 
 ## 🌐 Websites for learning GO 
  - [Gopherlabs by kubedaily](https://gopherlabs.kubedaily.com/Beginners/readme.html) 
