@@ -7,3 +7,5 @@
  - [hacker.io - part 1](https://hackr.io/tutorials/learn-golang?sort=upvotes&type_tags%5B%5D=1)
  - [hacker.io - part 2]()
  - [Essential Go](https://essential-go.programming-books.io/)
+ - [BootCamp for GO](http://www.golangbootcamp.com/)
+ - [web application with GO](https://astaxie.gitbooks.io/)
