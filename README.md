@@ -12,3 +12,7 @@
  - [Golang bot](https://golangbot.com/learn-golang-series/)
  - [Go lang with exerecise](https://gophercises.com/)
  - [Go Book pdf - openmind.net](https://www.openmymind.net/assets/go/go.pdf)
+ 
+ ## Roadmap for Golang by [collabnix](https://github.com/collabnix/GopherLabs-1) and [gitgirish2](https://github.com/gitgirish2/GopherLabs) 2020-2021
+ 
+ ![roadmap for golang 2020](https://i.imgur.com/wsY4wC7.png)
