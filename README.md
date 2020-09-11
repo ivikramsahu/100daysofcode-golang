@@ -2,7 +2,7 @@
 
 100 days challenge to brush up or start with go lang..
 
-### Challenges Starts from _11-Sept-2020_
+### Challenges Starts from _12-Sept-2020_
 
 ## 🌐 Websites for learning GO 
  - [Gopherlabs by kubedaily](https://gopherlabs.kubedaily.com/Beginners/readme.html) 
@@ -22,7 +22,10 @@
 
  ## 📅 100 days of ChartSheet
 
-
+<details>
+ <summary>25 Days of Basics to Golang</summary>
+ 
+ 
 | 🔖 C-1 ✍ | 🔖 C-2  ✍ | 🔖 C-3 ✍ | 🔖 C-4 ✍ | 🔖 C-5 ✍ |
 |---|---|---|---|---|
 |<ul><li>- [ ] Day ↠ 1️⃣</li></ul>|<ul><li>- [ ] Day ↠ 2️⃣</li></ul>|<ul><li>- [ ] Day ↠ 3️⃣</li></ul>|<ul><li>- [ ] Day ↠ 4️⃣</li></ul>| <ul><li>- [ ] Day ↠ 5️⃣</li></ul>|
@@ -30,3 +33,5 @@
 |<ul><li>- [ ] Day ↠ 1️⃣1️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣2️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣3️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣4️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣5️⃣</li></ul>|
 |<ul><li>- [ ] Day ↠ 1️⃣6️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣7️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣8️⃣</li></ul>|<ul><li>- [ ] Day ↠ 1️⃣9️⃣</li></ul>|<ul><li>- [ ] Day ↠ 2️⃣0️⃣</li></ul>|
 |<ul><li>- [ ] Day ↠ 2️⃣1️⃣</li></ul>|<ul><li>- [ ] Day ↠ 2️⃣2️⃣</li></ul>|<ul><li>- [ ] Day ↠ 2️⃣3️⃣</li></ul>|<ul><li>- [ ] Day ↠ 2️⃣4️⃣</li></ul>|<ul><li>- [ ] Day ↠ 2️⃣5️⃣</li></ul>|
+
+</details>
