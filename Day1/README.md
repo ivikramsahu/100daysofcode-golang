@@ -4,7 +4,7 @@ Before I could start with the challenge. Let me talk a few things why I am takin
 
 ![GO is interesting](https://i.imgur.com/qEnNsZq.gif)
 
-## Short Story 📔
+## Why should I learn GOlang 📔
 
 Learning a new language is always good to keep yourself updated with technology. Similarly, I decided to learn Golang because my organization was deciding to move (backend) from #PERL to #GO.
 
@@ -24,5 +24,13 @@ Since the projects didn't give you a complete overview of any programming langua
 
 I hope the you can relate the challenge now! 
 
-## Let's Begin 💻
+## What's the purpose of golang (a new language) 💻
+
+## Why Golang project started?
+
+## why was Golang created?
+
+## Success Stories
+
+
 
