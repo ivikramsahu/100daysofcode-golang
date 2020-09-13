@@ -8,7 +8,7 @@ Before I could start with the challenge. Let me talk a few things why I am takin
 
 Learning a new language is always good to keep yourself updated with technology. Similarly, I decided to learn Golang because my organization was deciding to move (backend) from #PERL to #GO.
 
-But before we could directly hope on GO(golang),
+But before we could directly hop on GO(golang),
 we started with JAVA, Node, and Erlang(and some RUST) where JAVA didn't scale much as we expected, Nodejs turned out to be that great for frontend but didn't satisfy our use-case, and Erlang/Rust was awesome and scale but time-consuming for developers to Learn...
 
 After a few benchmarks and statistics of Golang, we noticed that **GO** is Simple, Fast, scalable, and library rich language that means easy to adapt and learn, production-ready, and huge geeky community... 
