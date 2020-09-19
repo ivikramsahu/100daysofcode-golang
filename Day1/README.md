@@ -4,7 +4,7 @@ Before I could start with the challenge. Let me talk a few things why I am takin
 
 ![GO is interesting](https://i.imgur.com/qEnNsZq.gif)
 
-## 📔 Why should I learn GOlang ?
+## 📔 Why I learned GOlang ?
 
 Learning a new language is always good to keep yourself updated with technology. Similarly, I decided to learn Golang because my organization was deciding to move (backend) from #PERL to #GO.
 
@@ -22,15 +22,16 @@ The journey began and made me fell in love ❤️ with this GO language...
 
 Since the projects didn't give you a complete overview of any programming languages, it is necessary to get brushed up from scratch... and that thinking made me start with the #100daysofcode challenge for GOlang.
 
-I hope the you can relate the challenge now! 
+I hope now you can relate the challenge! 
 
-## 💻 What's the purpose of golang (a new language) 
+So Let's begin with a simple and most freqently asked question that is...
 
-## Why Golang project started?
+How it(Golang) started?, from where? and why would we require this Language... So story is going to be interesting now.. 
 
-## why was Golang created?
+## History behind Golang...
 
-## Success Stories
+About Ten to twelve years ago(2007), A team of three geek started with a project
+
 
 
 
