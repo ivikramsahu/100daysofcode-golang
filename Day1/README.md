@@ -32,6 +32,9 @@ How it(Golang) started?, from where? and why would we require this Language... S
 
 About Ten to twelve years ago(2007), A team of three geek started with a project
 
+[![History of golang](https://img.youtube.com/vi/rKnDgT73v8s/0.jpg)](https://www.youtube.com/watch?v=rKnDgT73v8s)
+
+
 
 
 
